@@ -37,7 +37,7 @@ public class ConvertImageToByteArray {
     }
 
     public static void main(String[] args) {
-        String sourceImagePath = "src/main/resources/image (2).png";
+        String sourceImagePath = "src/main/resources/image2.png";
         String outputImagePath = "src/main/resources/image.jpg";
 
         // Convert image to byte array
