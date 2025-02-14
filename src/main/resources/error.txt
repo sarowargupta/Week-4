@@ -1,0 +1,7 @@
+These errors are indicated by colored wavy lines.
+The red line indicates a misspelled word.
+The green line indicates a grammatical error.
+The blue line indicates a contextual spelling error.
+This feature is turned off by default.
+Spelling and grammar errors.
+
