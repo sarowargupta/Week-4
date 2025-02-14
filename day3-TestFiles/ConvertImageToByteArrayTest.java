@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ConvertImageToByteArrayTest {
 
-    private static final String sourceImagePath = "src/main/resources/image (2).png";
+    private static final String sourceImagePath = "src/main/resources/image2.png";
     private static final String otputImagePath = "src/main/resources/image.jpg";
 
     @Test
